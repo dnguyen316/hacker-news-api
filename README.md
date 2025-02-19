@@ -1,4 +1,4 @@
-# Hacker News Client
+# Hacker News API
 
 This is the backend service for the Hacker News application. It provides a custom GraphQL server that aggregates and serves data from Hacker News. The API supports queries for top stories, story details, and nested comments with pagination support.
 
@@ -50,7 +50,7 @@ This project fetches data from a custom Hacker News API using GraphQL. Set up yo
   PORT=4000
 ```
 
-This ensures your client application uses the correct GraphQL endpoint.
+This ensures your server application uses the correct Hacker New API endpoint.
 
 ## Installation
 
